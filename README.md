@@ -1,3 +1,1 @@
-# document-clustering
-## K-MEANS
-agglomerative
+# Agglomerative Hierarchical Document Clustering
